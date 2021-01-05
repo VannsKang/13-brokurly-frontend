@@ -17,7 +17,7 @@ https://trello.com/b/37IIkVmJ/team-brokurly
 + 김제형
 ### :man-boy: BackEnd
 + 김동현
-+ 김형욱 (나)
++ 김형욱
 ## :broccoli: 프로젝트 기간
 2020.10. 19 ~ 2020. 10. 30 약 2주간 진행
 ## :broccoli: 프로젝트 영상
